@@ -7,10 +7,10 @@ package homeWork_25;
 public class SumOfNumbers {
     public static void main(String[] args) {
 
-        int x = 7 * 1979;
-        System.out.println("X = " + x);
-        int sum = calculateSum(x);
-        System.out.println("Sum of the numbers from 1 to " + x + " = " + sum);
+        int y = 7 * 1979;
+        System.out.println("X = " + y);
+        int sum = calculateSum(y);
+        System.out.println("Sum of the numbers from 1 to " + y + " = " + sum);
     }
 
     private static int calculateSum(int x) {
